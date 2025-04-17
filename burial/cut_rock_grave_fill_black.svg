@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg1"
+   sodipodi:docname="cut_rock_grave_fill_black.svg"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.939697"
+     inkscape:cx="39.985205"
+     inkscape:cy="53.285546"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes"
+     showgrid="false" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="m 54.086,93.135 h 2.056 l 0.971,-9.953 0.971,-9.953 0.972,-9.953 0.971,-9.952 0.971,-9.953 0.971,-9.953 0.859,-8.798 -2.9,-3.142 h -4.5 l -0.038,-8.576 -1.835,-4.317 -3.579,-1.7 -3.58,1.7 -1.835,4.317 -0.038,8.576 h -4.5 l -2.9,3.142 0.971,9.952 0.971,9.953 0.971,9.953 0.971,9.953 0.97,9.952 0.971,9.953 0.858,8.799 h 2.056 2.056 1.028 1.028 1.028 1.028 2.056"
+         id="path1"
+         style="fill:#000000;stroke-linecap:square;stroke:#000000;stroke-width:3;stroke-dasharray:none;stroke-linejoin:miter" />
+    </g>
+  </g>
+</svg>

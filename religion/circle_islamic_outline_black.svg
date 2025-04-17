@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg2"
+   sodipodi:docname="set_filled_islamic_2a.svg"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.685"
+     inkscape:cx="85.617368"
+     inkscape:cy="59.837178"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="m 30.083,39.162 1.295,1.788 1.452,1.654 1.595,1.507 1.728,1.351 1.848,1.183 1.958,1.006 2.054,0.816 2.139,0.618 2.213,0.407 2.275,0.187 2.325,-0.045 3.101,-0.43 2.945,-0.827 2.763,-1.195 2.556,-1.532 2.324,-1.841 2.066,-2.119 1.783,-2.368 1.474,-2.587 1.142,-2.777 0.782,-2.936 0.398,-3.067 -0.011,-3.167 -0.262,-2.238 -0.463,-2.162 -0.652,-2.077 -0.833,-1.983 -1.002,-1.88 -1.162,-1.768 -1.311,-1.647 -1.451,-1.518 -1.581,-1.378 -1.7,-1.23 -1.809,-1.073 -1.908,-0.907 0.537,0.821 0.505,0.848 0.469,0.871 0.434,0.895 0.397,0.917 0.357,0.938 0.318,0.958 0.276,0.976 0.234,0.993 0.189,1.01 0.144,1.025 0.097,1.038 0.011,3.058 -0.384,2.961 -0.754,2.834 -1.101,2.679 -1.422,2.494 -1.721,2.282 -1.993,2.039 -2.242,1.769 -2.467,1.47 -2.667,1.141 -2.843,0.784 -2.995,0.399 -1.132,0.05 -1.122,-0.007 -1.111,-0.064 -1.098,-0.118 -1.083,-0.171 -1.067,-0.223 -1.048,-0.273 -1.029,-0.322 -1.008,-0.37 -0.985,-0.416 -0.961,-0.46 -0.934,-0.504 1.128,1.913"
+         id="path1"
+         style="stroke-linecap:round;stroke-linejoin:miter" />
+      <path
+         fill="none"
+         stroke-width="3"
+         stroke-linecap="butt"
+         stroke-opacity="1"
+         stroke="#000000"
+         stroke-linejoin="round"
+         d="M 52.638,55.733 50,55.556 l -2.638,0.177 -2.53,0.517 -2.399,0.834 -2.246,1.127 -2.068,1.397 -1.867,1.644 -1.644,1.867 -1.397,2.068 -1.127,2.246 -0.834,2.399 -0.517,2.53 -0.177,2.638 0.177,2.638 0.517,2.53 0.834,2.399 1.127,2.246 1.397,2.068 1.644,1.867 1.867,1.644 2.068,1.397 2.246,1.127 2.399,0.834 2.53,0.517 2.638,0.178 2.638,-0.178 2.53,-0.517 2.399,-0.834 2.246,-1.127 2.068,-1.397 1.867,-1.644 1.644,-1.867 1.397,-2.068 1.127,-2.246 0.834,-2.399 0.517,-2.53 L 69.444,75 69.267,72.362 68.75,69.832 67.916,67.433 66.789,65.187 65.392,63.119 63.748,61.252 61.881,59.608 59.813,58.211 57.567,57.084 55.168,56.25 52.638,55.733"
+         id="path2-7"
+         style="fill:#000000;stroke:#000000;stroke-linecap:round" />
+    </g>
+  </g>
+</svg>
