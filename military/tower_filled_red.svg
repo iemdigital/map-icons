@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="100"
+   height="100"
+   id="svg4"
+   sodipodi:docname="tower_filled_red.svg"
+   inkscape:version="1.4.1-rc (06eac75fbf, 2025-03-29)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.211377"
+     inkscape:cx="65.241874"
+     inkscape:cy="28.30346"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="strokes"
+     showgrid="false" />
+  <g
+     id="ViewLayer_LineSet"
+     inkscape:label="ViewLayer_LineSet">
+    <g
+       inkscape:groupmode="layer"
+       id="strokes"
+       inkscape:label="strokes">
+      <path
+         id="rect1"
+         style="fill:#ff5d5d;stroke:#ff5d5d;stroke-width:3;stroke-linecap:square;stroke-dasharray:none;paint-order:markers stroke fill;fill-opacity:1;stroke-opacity:1"
+         d="M 79.777344,24.166016 V 5.5 H 66.667969 V 24.166016 H 56.554688 V 5.5 H 43.445312 V 24.166016 H 33.332031 V 5.5 H 20.222656 v 18.666016 70 h 59.554688 z"
+         sodipodi:nodetypes="ccccccccccccccc" />
+    </g>
+  </g>
+</svg>
